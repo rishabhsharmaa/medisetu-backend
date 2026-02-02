@@ -1,3 +1,0 @@
-nohup: ignoring input
-Server running in undefined mode on port 3000
-Error: connect ECONNREFUSED 127.0.0.1:27017
